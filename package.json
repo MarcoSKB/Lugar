@@ -1,6 +1,7 @@
 {
   "name": "react-tailwindcss",
   "private": true,
+  "homepage": "https://marcoserikbay.github.io/Lugar/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
